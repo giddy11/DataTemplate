@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kWkAie1pI/H3DF33OqHPlc7sWCONz5L0CVFqnzzH1/IQmgQGTUg4QsXI0C/ByEbhyDA0NYN4qEFZSrqR9/8Z6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\CodingSelfDevelopmentInWPF\\ChatApp2\\ChatApp2\\ChatApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
